@@ -1,6 +1,6 @@
 # Lexicoid
 
-![Build Status](https://github.com/lmammino/lexicoid/actions/workflows/ci-build.yml/badge.svg)
+[![Build Status](https://github.com/lmammino/lexicoid/actions/workflows/rust.yml/badge.svg)](https://github.com/lmammino/lexicoid/actions/workflows/rust.yml)
 [![Crates.io](https://img.shields.io/crates/v/lexicoid.svg)](https://crates.io/crates/lexicoid)
 [![docs.rs](https://docs.rs/lexicoid/badge.svg)](https://docs.rs/lexicoid)
 
