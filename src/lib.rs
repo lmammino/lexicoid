@@ -11,10 +11,10 @@
 //! # use lexicoid::*;
 //! #
 //! // generates a lexicoid for the current timestamp
-//! println!("{}", lexicoid_now()) // gj7x3vc
+//! println!("{}", lexicoid_now()); // gj7x3vc
 //!
 //! // generates a lexicoid for a given unix timestamp (as u64)
-//! println!("{}", lexicoid(1654401676)) // gei4p52
+//! println!("{}", lexicoid(1654401676)); // gei4p52
 //! ```
 
 #[doc = include_str!("../README.md")]
