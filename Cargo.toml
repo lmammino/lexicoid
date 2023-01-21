@@ -1,0 +1,18 @@
+[package]
+name = "lexicoid"
+description = "Short & stable IDs based on timestamps"
+version = "0.1.0"
+edition = "2021"
+
+authors = ["Luciano Mammino <lucianomammino@gmail.com>"]
+keywords = ["id", "base32", "timestamp", "ulid", "sortable"]
+categories = ["date-and-time", "encoding", "value-formatting"]
+
+repository = "https://github.com/lmammino/lexicoid"
+license = "MIT"
+readme = "README.md"
+
+[dependencies]
+data-encoding = "2.3.3"
+lazy_static = "1.4.0"
+num = "0.4.0"
