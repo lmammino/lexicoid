@@ -51,7 +51,9 @@ Examples:
 
 ## Other implementations
 
-- [Ruby](https://github.com/michaelherold/lexicoid-ruby) by @michaelherold
+- [Ruby](https://github.com/michaelherold/lexicoid-ruby) by [@michaelherold](https://github.com/michaelherold/)
+
+If you have ported this library to other languages, please submit a PR and add your project to this list :)
 
 
 ## Contributing
