@@ -49,6 +49,10 @@ Examples:
 
 > **Warning**: since the resolution of the timestamps is per second, if you try to generate multiple ids in the same second, they will all be equal. This is not directly suitable for high frequency ID generation. But, if you need to adapt this approach to high frequency ID generation, you can always append the current number of milliseconds (or nanoseconds) to the generated ID.
 
+## Other implementations
+
+- [Ruby](https://github.com/michaelherold/lexicoid-ruby) by @michaelherold
+
 
 ## Contributing
 
